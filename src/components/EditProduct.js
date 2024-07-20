@@ -66,7 +66,7 @@ const EditProduct = () => {
         <div className="field">
             <label className="label">Kategori Produk</label>
             <div className="select control">
-            <select name="{category}"  onChange={(e) => setCategory(e.target.value)}>
+            <select value={category}  onChange={(e) => setCategory(e.target.value)}>
             {options.map((option) => (
               <option key={option.value} value={option.value}>
                 {option.label}
