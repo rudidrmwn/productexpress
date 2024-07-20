@@ -29,3 +29,5 @@ npm install
 ```
 npm start
 ```
+### PRODUCT LIST
+img src="https://i.ibb.co.com/9YZ4W6T/productlist.png" alt="productlist" border="0">
