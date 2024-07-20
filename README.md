@@ -1,3 +1,5 @@
+PRODUCT EXPRESS is application using MERN (MySQL Expressjs Reactjs Nodejs)
+
 # Backend
 ### Installing 
 ```
