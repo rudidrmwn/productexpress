@@ -39,6 +39,5 @@ npm start
 <img src="https://i.ibb.co.com/0jz2cZm/addproduct.png" alt="addproduct" border="0">
 
 ### EDIT PRODUCT
-<img src="https://i.ibb.co.com/rd1S7Zb/editproduct.png" alt="editproduct" border="0">
-
+<img src="https://i.ibb.co.com/ZK0Fcp4/editproduct.png" alt="editproduct" border="0">
 
